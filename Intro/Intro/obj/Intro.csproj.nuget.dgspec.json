@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Berkcan\\OneDrive\\Masaüstü\\C# Course\\Intro\\Intro\\Intro.csproj": {}
+    "C:\\Users\\Berkcan\\Source\\Repos\\C-sharp-begginer\\Intro\\Intro\\Intro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Berkcan\\OneDrive\\Masaüstü\\C# Course\\Intro\\Intro\\Intro.csproj": {
+    "C:\\Users\\Berkcan\\Source\\Repos\\C-sharp-begginer\\Intro\\Intro\\Intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berkcan\\OneDrive\\Masaüstü\\C# Course\\Intro\\Intro\\Intro.csproj",
+        "projectUniqueName": "C:\\Users\\Berkcan\\Source\\Repos\\C-sharp-begginer\\Intro\\Intro\\Intro.csproj",
         "projectName": "Intro",
-        "projectPath": "C:\\Users\\Berkcan\\OneDrive\\Masaüstü\\C# Course\\Intro\\Intro\\Intro.csproj",
+        "projectPath": "C:\\Users\\Berkcan\\Source\\Repos\\C-sharp-begginer\\Intro\\Intro\\Intro.csproj",
         "packagesPath": "C:\\Users\\Berkcan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berkcan\\OneDrive\\Masaüstü\\C# Course\\Intro\\Intro\\obj\\",
+        "outputPath": "C:\\Users\\Berkcan\\Source\\Repos\\C-sharp-begginer\\Intro\\Intro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Berkcan\\AppData\\Roaming\\NuGet\\NuGet.Config",

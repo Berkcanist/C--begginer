@@ -11,6 +11,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine(message1);
 Console.WriteLine("I'm " + age + " years old!");
+Console.WriteLine("I want to be a C# programmer.");
 
 CourseManager courseManager = new CourseManager();
 
